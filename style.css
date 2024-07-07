@@ -106,3 +106,9 @@ ul {
 .banner-content button {
     margin-right: 30px;
 }
+
+.header {
+    background-image: url(../portfolio-resources/images/developer.png), url(../portfolio-resources/images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: top left, bottom right;
+}
